@@ -1,0 +1,1 @@
+export { AttachmentsServiceFactory } from './AttachmentsServiceFactory';
